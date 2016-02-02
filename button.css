@@ -1,0 +1,25 @@
+.btn-medium {
+    display: inline-block;
+    color: rgb(224,224,224);
+    width: 130px;
+    height: 34px;
+    border: solid 1px rgb(224,224,224);
+    border-radius: 90px;
+    text-decoration: none;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    padding: 12px 0px 0px 0px;
+}
+
+.btn-treehouse {
+    display: inline-block;
+    color: rgb(255,255,255);
+    background-color: rgb(99,208,110);
+    width: 100px;
+    height: 32px;
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
+    padding: 13px 0px 0px 0px;
+    font-family: 'Montserrat', sans-serif;
+}
